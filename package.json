@@ -37,7 +37,7 @@
   "dependencies": {
     "chalk": "~0.5.1",
     "maxmin": "~1.0.0",
-    "uncss": "0.8.1"
+    "uncss": "giakki/uncss#phridge"
   },
   "devDependencies": {
     "chai": "~1.9.2",
